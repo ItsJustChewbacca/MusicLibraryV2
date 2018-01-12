@@ -66,5 +66,5 @@ library1.addPlayLists(playlist1);
  console.log("------------------------------------------------------------------------------");
  console.log("track1:", track1);
  console.log("------------------------------------------------------------------------------");
- console.log("playlist1.overallRating():", playlist1.overallRating());
- console.log("playlist1.totalDuration():", playlist1.totalDuration());
+ console.log("playlist1.overallRating:", playlist1.overallRating());
+ console.log("playlist1.totalDuration:", playlist1.totalDuration());
